@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Main {
+public class Main_asdad {
     static int[] parent;
     static HashMap<Integer,Integer> result = new HashMap<>();
     static int N;

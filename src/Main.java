@@ -29,6 +29,7 @@ public class Main {
 
         int[][] resultSeat = new int [H][W];
 
+        //test
         // 一番小さい数値を記憶
         int tmpMinNum = 50;
         // 基準となる配列番号から離れれば離れるほど数を増やす
